@@ -4,7 +4,7 @@
 
 A responsive image search application built with JavaScript and the Pixabay API. Search for images by keyword, browse a dynamic gallery, and explore full-size photos with a lightbox.
 
-[**Live Demo**](#) · [**GitHub Repository**](https://github.com/IrinaV1/image-gallery)
+[**Live Demo**](https://irinav1.github.io/image-gallery/) · [**GitHub Repository**](https://github.com/IrinaV1/image-gallery)
 
 ## Tech Stack
 
